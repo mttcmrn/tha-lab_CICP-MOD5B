@@ -1,18 +1,12 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. Select RPT #1, Network Information Gathering from the RPT pane of the left hand side of the workspace. 
+2. On the Target Discovery Method screen select the first option, Use CORE Impact to preform Information Gathering against the target IP addresses. 
+3. Select IP version 4 as the Target network IP version. 
+4. Specify the network rage of 10.12.4.0/24 
+5. For Network Scan Type proceed with the default selection, Detailed. 
+6. On the Advanced Settings screen de-select Perform Surveillance Cameras fingerprinting and select Check for Network Exposures. 
 
-2. If this is the last lab then end with the next step:
+This concludes the lab exercise.
 
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 3 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab3.md
-    ```
 
