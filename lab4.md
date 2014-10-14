@@ -1,17 +1,8 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. Change to the modules list by clicking the Modules tab at bottom of the RPT pane. 
+2. Browse to locate the Get Network Routes module. 
+```Modules / Information Gathering / Local /```
+3. Execute the Get Network Routes against the agent deployed to HR-DMILLS by either dragging the module onto the agent or by selecting the agent and double-clicking the module. 
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 4 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab4.md
-    ``` 
+This concludes the lab exercise.
