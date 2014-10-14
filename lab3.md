@@ -1,17 +1,10 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. Select RPT #2, Network Attack and Penetration from the RPT pane of the left hand side of the workspace. 
+2. Use the ellipsis button on the Target Selection screen to choose all discovered hosts on the 10.12.4.0 network. 
+3. Proceed with default options and finish the wizard. 
+4. Once Impact Pro has successfully deployed two OS Agents manually stop the running modules by right clicking Network Attack and Penetration from the Executed Modules pane and click stop. Do the same for the TCP Listener module. 
+5. Expand the HR-DMILLS host entity to reveal the deployed module. Try a couple of the right click menu options such as Browse Files or Get Screenshot etcetera. If Impact Pro wasn’t able to deploy an agent run Network Information Gathering again and ensure you select Check for Network Exposures. 
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 4 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab4.md
-    ``` 
+This concludes the lab exercise.
+ 
