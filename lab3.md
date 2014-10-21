@@ -8,5 +8,5 @@
 
 If Impact Pro wasn’t able to deploy an agent run Network Information Gathering again and ensure you select Check for Network Exposures. 
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to lab 4.
  

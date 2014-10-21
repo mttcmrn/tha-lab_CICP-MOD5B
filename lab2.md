@@ -9,6 +9,6 @@
 
 Network Information Gathering may take several minutes to complete. 
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to lab 3.
 
 

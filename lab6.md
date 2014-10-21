@@ -4,4 +4,4 @@
 2. Confirm the uninstallation of OS Agents and click finish. 
 3. Notice the OS Agents are now disconnected. This process may take a couple of minutes.
 
-This concludes the lab exercise.
+This concludes this block of instruction.

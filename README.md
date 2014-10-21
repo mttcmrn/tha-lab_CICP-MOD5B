@@ -14,5 +14,4 @@ There are no requirements for this lab.
 There is no required setup for this lab.
 
 #### Start the lab
-* Follow the instructions found at https://hackeracademy.com/lab/cicp-exploitation-b
-    ```/root/THA/CICP-MOD5B/lab1.md```
+* Follow the instructions for lab 1.

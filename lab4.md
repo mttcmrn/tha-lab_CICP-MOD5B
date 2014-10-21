@@ -9,4 +9,4 @@ Modules / Information Gathering / Local /
 
 
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to lab 5.
