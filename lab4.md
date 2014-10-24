@@ -1,6 +1,6 @@
 #### Instructions
 
-1. Change to the modules list by clicking the Modules tab at bottom of the RPT pane. 
+1. Change to the Modules list by clicking the Modules tab at bottom of the RPT pane. 
 2. Browse to locate the Get Network Routes module.
 
   ```
