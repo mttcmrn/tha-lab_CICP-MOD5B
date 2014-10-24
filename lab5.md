@@ -5,4 +5,4 @@
 3. Run the Network Information Gathering RPT on the 10.30.16.0/24 network. Refer to Lab Exercise 2 if necessary. Wait for the RPT to complete before moving on. 
 4. Notice the newly discovered system. Attack this system by dragging the Network Attack and Penetration RPT onto the newly discovered system. Remember to check for Network Exposures.
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to exercise 6.
